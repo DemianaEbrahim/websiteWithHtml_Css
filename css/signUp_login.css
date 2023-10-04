@@ -1,0 +1,58 @@
+.signupPage,.loginPage{
+    border: 1px solid black;
+    width: 450px;
+    height: 550px;
+    border-radius: 10px;
+    margin: auto;
+    background-color:rgb(222, 201, 201);
+  }
+  .child{
+    margin: 50px;
+  }
+  .inpt{
+    border: 1px solid;
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+  }
+  .btn{
+    border: 3px;
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rgb(239, 134, 150);
+  }
+  
+  .icons{
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+  .bi-facebook,.bi-google,.bi-linkedin{
+    font-size: 40px;
+  }
+  .icons i{
+    font-size: 40px;
+  }
+  .lastDiv{
+    margin-right: 50px;
+  }
+  .inpt1{
+    background-color:rgb(12, 193, 238) ;
+    width: 50px;
+    height: 20px;
+  }
+  .forget_password{
+    width: 350px;
+    font-size: large;
+    text-align: end;
+  }
+  .cheackBox{
+    margin-left: -20px;
+  }
+  .lastDiv a{
+    text-decoration: none;
+  }
